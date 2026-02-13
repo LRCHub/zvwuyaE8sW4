@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Awake Now",
+  "base_artist": "白石杏",
+  "createdAt": "2026-02-13T15:37:17.395851Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Awake Now (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_Awake_Now_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Awake Now",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_Awake_Now_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Awake Now",
+      "artist": "Vivid BAD SQUAD feat. 初音ミク, 小豆沢こはね, 白石杏, 東雲彰人 & 青柳冬弥",
+      "has_synced": true,
+      "path": "select/03_Awake_Now_Vivid_BAD_SQUAD_feat._初音ミク,_小豆沢こはね,_白石杏,_東雲彰人_&_青柳冬弥.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Awake Now",
+      "artist": "Miniature Tigers",
+      "has_synced": false,
+      "path": "select/04_I'm_Awake_Now_Miniature_Tigers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Awake Now (feat. 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥 & Hatsune Miku)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_Awake_Now_(feat._小豆沢こはね,_白石杏,_東雲彰人,_青柳冬弥_&_Hatsune_Miku)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'm Awake Now",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/06_I'm_Awake_Now_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm Awake Now",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/07_I'm_Awake_Now_The_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Awake Now",
+      "artist": "Yunosuke",
+      "has_synced": true,
+      "path": "select/08_Awake_Now_Yunosuke.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Awake Now (Album Version)",
+      "artist": "THE GOO GOO DOLLS",
+      "has_synced": true,
+      "path": "select/09_I'm_Awake_Now_(Album_Version)_THE_GOO_GOO_DOLLS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Awake Now (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/10_Awake_Now_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Awake Now",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク",
+      "has_synced": true,
+      "path": "select/11_Awake_Now_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Awake Now",
+      "artist": "Parachute Youth",
+      "has_synced": false,
+      "path": "select/12_Awake_Now_Parachute_Youth.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Awake Now",
+      "artist": "Bad Pollyanna",
+      "has_synced": false,
+      "path": "select/13_Awake_Now_Bad_Pollyanna.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Awake Now",
+      "artist": "Yunosuke feat.Hatsune Miku",
+      "has_synced": true,
+      "path": "select/14_Awake_Now_Yunosuke_feat.Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Awake Now",
+      "artist": "白石杏",
+      "has_synced": false,
+      "path": "select/pl_01_Awake_Now_白石杏.txt"
+    }
+  ]
+}
